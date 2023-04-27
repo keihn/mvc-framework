@@ -1,0 +1,17 @@
+{
+    "name": "user/mvc-project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        },
+
+        "files": ["helper.php"]
+    },
+    "authors": [
+        {
+            "name": "Abel",
+            "email": "aotugeme@gmail.com"
+        }
+    ],
+    "require": {}
+}
